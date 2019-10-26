@@ -1,4 +1,4 @@
-##项目简介
+## 项目简介
 这是一个简单模仿京东商品页面的小项目，项目采用SpringBoot+Vue+ElementUI前后端分离方式开发。
 
 配套前端：[https://github.com/allen512/vue-book-client](https://github.com/allen512/vue-book-client)
